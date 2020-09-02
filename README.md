@@ -1,4 +1,4 @@
-# Emojify
+# real-time-face-emotion-classification
 
 ### Summary:
 
